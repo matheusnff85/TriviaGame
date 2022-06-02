@@ -8,7 +8,7 @@ Neste repositório contém o codigo desenvolvido no projeto Trivia durante o cur
 
 ## Tecnologias usadas
 
-HTML, CSS, HOFs, Javascript, React, Redux, Operações Assíncronas, Requisições a API's, Metodologias ágeis, Git e Github.
+HTML, CSS, HOFs, Javascript, React, Redux, Operações Assíncronas, Requisições a API's, Metodologias ágeis, Git e Github, RTL, Mocks, Jest.
 
 ---
 
