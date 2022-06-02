@@ -1,5 +1,4 @@
 ![](trivia.png)
-# Trivia
 Neste repositório contém o codigo desenvolvido no projeto Trivia durante o curso da [Trybe](https://www.betrybe.com/) feito grupo mais informações dos participantes na [Publicação feita no Linkedin](https://www.linkedin.com/feed/update/urn:li:activity:6938254810173317120/).
 
 ---
